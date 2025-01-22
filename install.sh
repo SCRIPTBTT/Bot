@@ -295,7 +295,7 @@ composer install
 
 # Descargar el código comprimido
 echo -e "${CYAN}Descargando el código del bot...${RESET}"
-wget -O botlatamsrc.zip "https://telegram.loquendo.co/script/botlatamsrc.zip"
+wget -O botlatamsrc.zip "https://github.com/SCRIPTBTT/Bot/raw/refs/heads/main/botlatamsrc.zip"
 
 # Descomprimir el archivo
 echo -e "${CYAN}Descomprimiendo el código...${RESET}"
